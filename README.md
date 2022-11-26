@@ -8,3 +8,4 @@ echo -e "AIRFLOW_UID=$(id -u)" > .env
 docker-compose up airflow-init
 docker-compose up
 ```
+If you don't want to see the examples, you'll set up AIRFLOW__CORE__LOAD_EXAMPLES to false.

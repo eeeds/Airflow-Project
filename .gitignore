@@ -1,3 +1,6 @@
 /logs
 /plugins
 .env
+authorization.txt
+proyecto*
+*.ipynb
