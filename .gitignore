@@ -4,3 +4,4 @@
 authorization.txt
 proyecto*
 *.ipynb
+/dags/__pycache__
